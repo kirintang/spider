@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/SpaceX-io/go-lib/rand"
 	"github.com/gocolly/colly"
 	"github.com/gocolly/colly/extensions"
-	"github.com/kirintang/go-lib/rand"
 )
 
 func main() {
